@@ -3,7 +3,7 @@
 
 
 1. Go to [this site](https://manifest.youngzm.com/) and enter IW AppID (**292730**) using GitHub Official Source
-2. Download Steam Lua from [GitHub.]([https://www.steamtools.net/](https://github.com/kozaaaaczx/steam-lua/releases)
+2. Download Steam Lua from [GitHub.](https://www.steamtools.net/](https://github.com/kozaaaaczx/steam-lua/releases)
 3. Run Steam Lua.
 4. Extract the ZIP file downloaded from Step 1.
 5. Run **SteamLua.exe** as well as Steam.
